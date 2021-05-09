@@ -1,1 +1,1 @@
-# Postman_collection - Коллекция содержит 3 теста,можно запускать через Newman
+# Postman_collection - Коллекция содержит 3 теста,можно запускать через Newman или Jenkins
